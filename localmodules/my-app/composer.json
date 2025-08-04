@@ -1,0 +1,13 @@
+{
+    "name": "local/my-app",
+    "description": "Local theme/module for Magento",
+    "type": "magento2-theme",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
